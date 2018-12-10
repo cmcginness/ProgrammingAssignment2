@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## There functions work together to provide the ability to calculate the 
+## inverse of a square matrix.  The matrix and its inverse are cached to 
+## provide faster retrieval of the inverse without needing to re-process the 
+## matrix.
+
 
 ## This function can store a matrix and the inverse of the matrix
 
